@@ -53,4 +53,3 @@ Contributions are welcome! Feel free to submit issues or pull requests to help i
 
 Enjoy using BlogApp API!
 
-إذا كان هناك أي تعديلات أخرى تود إجراؤها، فلا تتردد في إخباري!
