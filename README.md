@@ -1,5 +1,5 @@
 ```markdown
-# BlogApp API
+## BlogApp API
 
 BlogApp API is an ASP.NET Core-based application that provides CRUD operations (Create, Read, Update, Delete) for blogs and categories. The application supports JWT authentication for delete, add, and update operations, and it creates a default admin user automatically upon first launch.
 
