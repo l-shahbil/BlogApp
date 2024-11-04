@@ -1,5 +1,5 @@
 ```markdown
-## BlogApp API
+# BlogApp API
 
 BlogApp API is an ASP.NET Core-based application that provides CRUD operations (Create, Read, Update, Delete) for blogs and categories. The application supports JWT authentication for delete, add, and update operations, and it creates a default admin user automatically upon first launch.
 
@@ -26,7 +26,10 @@ You can use these credentials to log in and manage the application.
 
 ## Getting Started
 
-1. Clone the repository
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   ```
 
 2. Navigate to the project directory:
    ```bash
@@ -35,7 +38,7 @@ You can use these credentials to log in and manage the application.
 
 3. Update the `appsettings.json` file with your database connection string.
 
-4. Run the following commands to apply migrations and start the application:
+4. Apply migrations and start the application:
    ```bash
    dotnet ef database update
    dotnet run
@@ -50,3 +53,9 @@ The application uses JWT Bearer tokens for authentication. Ensure to include the
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests to help improve this project.
+
+---
+
+Enjoy using BlogApp API!
+```
+
